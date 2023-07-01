@@ -12,11 +12,11 @@ The idea behind this is to make a reddit similar enviorment with a more visual a
 - Users will have a personal account with their favorite movies/shows and friends etc.
 - I am open to add functionality to this.
 
-- 
 ## Technical breakdown
 I would like to use React/NextJS/Typescript for the Frontend. 
 NodeJS/Express for the Backend.
-MongoDB or Sqllite for a database.
+MongoDB or Sqllite for the database.
+
 
 
 
