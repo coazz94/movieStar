@@ -1,6 +1,6 @@
 # MovieStar
 ---
-The goal of this app is to gather people together to comment and rate the most popular movies/shows, to make popular lists. It will  use Trakt API to gather the movies/shows  and etc.
+The goal of this app is to gather people together to comment and rate the most popular movies/shows and to make popular lists. It will  use Trakt API to gather the movies/shows  and etc.
 
 ## What problem does this solve ? 
 
